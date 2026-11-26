@@ -1,0 +1,8 @@
+PREDICTIVE SALES ANALYTICS REPORT
+Historical data: January–December 2025
+Total annual revenue: ₹78,335,522.78
+Average monthly revenue: ₹6,527,960.23
+Highest month: Jul 2025 (₹9,356,212.02)
+Lowest month: Dec 2025 (₹5,320,439.87)
+Best model by test MAE: ARIMA
+Note: evaluation uses a three-month test period; the dataset is synthetic.
